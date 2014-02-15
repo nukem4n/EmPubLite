@@ -2,7 +2,6 @@ package com.commonsware.empublite;
 
 import android.os.Bundle;
 import android.app.Activity;
-import android.support.v7.app.ActionBarActivity;
 import android.view.Menu;
 import android.view.MenuItem;
 
