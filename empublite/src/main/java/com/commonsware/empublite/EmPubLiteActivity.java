@@ -20,7 +20,7 @@ public class EmPubLiteActivity extends SherlockFragmentActivity {
     public boolean onCreateOptionsMenu(Menu menu) {
         
         // Inflate the menu; this adds items to the action bar if it is present.
-        getMenuInflater().inflate(R.menu.em_pub_lite, menu);
+        getMenuInflater().inflate(R.menu.options, menu);
         return true;
     }
 
