@@ -3,5 +3,7 @@
 
     <string name="app_name">EmPubLite</string>
     <string name="action_settings">Settings</string>
+    <string_name="help">Help</string_name>
+    <string_name="about">About</string_name>
 
 </resources>
