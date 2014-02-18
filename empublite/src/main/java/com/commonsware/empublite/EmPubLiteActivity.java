@@ -4,9 +4,10 @@ import android.os.Bundle;
 import android.app.Activity;
 import android.view.Menu;
 import android.view.MenuItem;
+import com.actionbarsherlock.app.SherlockFragmentActivity;
 
 
-public class EmPubLiteActivity extends Activity {
+public class EmPubLiteActivity extends SherlockFragmentActivity {
 
 
     @Override
