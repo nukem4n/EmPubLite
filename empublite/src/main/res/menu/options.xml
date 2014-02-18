@@ -4,7 +4,7 @@
     tools:context="com.commonsware.empublite.EmPubLiteActivity" >
     
     <item android:id="@+id/help"
-        android:title="@string/action_settings"
+        android:title="@string/menu_settings"
         android:orderInCategory="3"
         app:showAsAction="never" />
 
