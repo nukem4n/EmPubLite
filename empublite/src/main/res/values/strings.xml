@@ -2,8 +2,8 @@
 <resources>
 
     <string name="app_name">EmPubLite</string>
-    <string name="action_settings">Settings</string>
-    <string name="help">Help</string>
-    <string name="about">About</string>
+    <string name="action_help">Help</string>
+    <string name="action_sanka">Sanka</string>
+    <string name="action_about">About</string>
 
 </resources>
