@@ -1,22 +1,20 @@
 <menu xmlns:android="http://schemas.android.com/apk/res/android"
-    xmlns:app="http://schemas.android.com/apk/res-auto"
-    xmlns:tools="http://schemas.android.com/tools"
-    tools:context="com.commonsware.empublite.EmPubLiteActivity" >
+      xmlns:tools="http://schemas.android.com/tools"
+      tools:context="com.commonsware.empublite.EmPubLiteActivity" >
     
     <item android:id="@+id/help"
-        android:title="@string/action_help"
-        android:orderInCategory="3"
-        />
+          android:title="@string/action_help"
+          android:icon="@android:drawable/ic_menu_help"
+          android:orderInCategory="3"/>
 
     <item android:id="@+id/about"
-        android:title="@string/action_about"
-        android:orderInCategory="1"
-         />
+          android:icon="@android:drawable/ic_menu_info_details"
+          android:title="@string/action_about"
+          android:orderInCategory="1"/>
 
     <item android:id="@+id/action_sanka"
           android:title="Sanka"
-          android:orderInCategory="2"
-          />
+          android:orderInCategory="2"/>
 
 
 </menu>
