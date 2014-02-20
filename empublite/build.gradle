@@ -18,8 +18,7 @@ android {
     }
 }
 
-dependencies {
-    compile 'com.android.support:appcompat-v7:+'
-    compile fileTree(dir: 'libs', include: ['*.jar', '*.aar'])
-    compile 'com.actionbarsherlock:actionbarsherlock-fest:4.4.0@jar'
-}
+   dependencies {
+    compile 'com.actionbarsherlock:actionbarsherlock:4.4.0@aar'
+    compile 'com.android.support:support-v4:19.0.+'
+    }
