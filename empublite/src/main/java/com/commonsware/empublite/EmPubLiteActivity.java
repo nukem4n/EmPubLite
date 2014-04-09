@@ -30,6 +30,8 @@ public class EmPubLiteActivity extends SherlockFragmentActivity {
                 return (true);
 
             case R.id.about:
+                Intent i=new Intent(this, SimpleContentActivity.class);
+                startActivity(i);
                 return (true);
         }
     return(super.onOptionsItemSelected(item));
