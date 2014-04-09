@@ -3,7 +3,7 @@
 
     <string name="app_name">EmPubLite</string>
     <string name="action_help">Help</string>
-    <string name="action_sanka">Sanka</string>
+    <string name="action_home">Home</string>
     <string name="action_about">About</string>
 
 </resources>
