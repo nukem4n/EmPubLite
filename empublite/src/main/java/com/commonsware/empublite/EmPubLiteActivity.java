@@ -1,11 +1,11 @@
 package com.commonsware.empublite;
 
 import android.os.Bundle;
+import android.content.Intent;
 import com.actionbarsherlock.view.Menu;
 import com.actionbarsherlock.view.MenuItem;
 import com.actionbarsherlock.view.MenuInflater;
 import com.actionbarsherlock.app.SherlockFragmentActivity;
-import android.content.Intent;
 
 
 public class EmPubLiteActivity extends SherlockFragmentActivity {
@@ -27,6 +27,7 @@ public class EmPubLiteActivity extends SherlockFragmentActivity {
     @Override
     public boolean onOptionsItemSelected(MenuItem item) {
         switch (item.getItemId()) {
+            
             case android.R.id.home:
                 return (true);
 
